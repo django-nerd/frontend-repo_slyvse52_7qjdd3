@@ -27,7 +27,14 @@
     "clsx": "^2.1.0",
     "framer-motion": "^11.0.0",
     "lucide-react": "^0.363.0",
-    "tailwind-merge": "^2.2.0"
+    "tailwind-merge": "^2.2.0",
+    "recharts": "^2.10.3",
+    "papaparse": "^5.4.1",
+    "react-leaflet": "^4.2.1",
+    "leaflet": "^1.9.4",
+    "file-saver": "^2.0.5",
+    "html-to-image": "^1.11.11",
+    "jspdf": "^2.5.1"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.0",
